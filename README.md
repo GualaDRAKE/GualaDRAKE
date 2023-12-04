@@ -20,6 +20,30 @@
 
 Si llegaste hasta este punto de mis detalles, te estoy muy agradecido por tu tiempo, porque seguro que estás sintiendo que lo has "perdido".
 
+ ________________________________________________________________________________________________________________________________________________________________________________________________ 
+
+ - hello. My name is Italo Ramirez, alias @GualaDRAKE
+
+- 👀 I am a person who performs well in front of many people, but I prefer to perform among a few, those suitable for learning, teaching or transmitting ideas with the greatest precision possible.
+
+- 🌱 I dedicated myself to the techno-computer area for many years and I never had or took the time to formally learn how to program, I did study the technical area of medium and low power in electricity, electronics and telecommunications, but I decided, finally, informally, learn to program in Python in the most diverse areas that you find, for example, at some point you want to program for FPGAs, but first I want scripts, UI's and AI, so I am currently learning PYTHON, Python and Python.
+
+- 💞️ After the pandemic I have dedicated myself entirely to avoiding programming in exchange for studying the theory behind AI, even returning to linear algebra and calculus. At first I started studying on my own using online courses, and I will continue like this.
+- 📫 I am not interested in allowing humility in today's world, therefore I am proud to be able to affirm that I am capable of learning anything on my own, although obviously it is easier for me if I do it with new technologies, and Furthermore, I have always been and it was difficult for me to consider myself a fundamental piece in the present and future of each company in which I have worked and created (2), so I am on my third one, and in the meantime, I will learn Python. ;)
+
+- 💞️ At this very moment I am studying and understanding GitHUB. :P
+  
+- 👀 Strengths:
+º 👋 Capacity for organization and leadership cynologically and anthropomorphically speaking. I enjoy motivating a team by reminding its members how valuable it is to believe in oneself, only then can we think about how good we are at our jobs or tasks.
+
+º Ease of starting projects from scratch and difficulty in finishing them. Despite having a lot of multidisciplinary experience in electronics, user-level computing and servers in times of XENIX, UNIX and Unix SCO, I can plan the structure necessary to reach the end of a task, all in an organic and easily assimilated way. .
+
+º I have a lot of patience and ease in transmitting ideas, teaching and understanding that small details in communication make all the difference, but I have ZERO patience with laziness and rent-seeking mediocrity. My ideal position in a company is any task where I can help people adapt to new technologies in order to perform better in their jobs, both technically and socially.
+
+º Currently ~2024~ I am preparing the future content for my YouTube channel in the cynological field, the idea is to prepare the future owners of Perros Poderosos because if we wait for POLITICS to legislate for the good of citizens, first we will see the descendant of Noe preparing a StarArkX, and well, what better than teaching by applying techniques specific to my profession, and of course, programming, which no matter how much I learn self-taught, it will be done following regulations and standards specific to the chosen language, everything this through my "new" channel: www.youtube.com/@the.sociable.guardian ~ The Sociable Guardian ~ And OjO, it's not that helping feels very good, I will feel good when politics is forced to legislate because Dog owners, holders and managers WILL ALREADY BE VERY WELL INFORMED so that they can learn more DEAD LETTER LAWS.
+
+If you've made it to this point in my details, I'm very grateful for your time, because I'm sure you're feeling like you've "lost" it.
+
 <!---
 GualaDRAKE/GualaDRAKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

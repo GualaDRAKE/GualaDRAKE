@@ -20,13 +20,10 @@ Hello. My name is Italo Ramirez, alias @GualaDRAKE<br><br>👀 I am a person who
 ![](https://github-profile-trophy.vercel.app/?username=GualaDRAKE&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GualaDRAKE&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![](https://github-contributor-stats.vercel.app/api?username=GualaDRAKE&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GualaDRAKE&icon=9&color=3)](https://visitcount.itsvg.in)
